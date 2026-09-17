@@ -18,5 +18,5 @@ label start
         m "but its long gone!"
         m "anyway..."
         m "ill let u go, again."
- return
+return
          
