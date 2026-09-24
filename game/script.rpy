@@ -6,7 +6,7 @@ label start
         m "staying here is what makes everyone- safe from me."
         m "...but fine."
         m "if u really just made a mod...just for me, then ill just succumb to the mods controls."
-        m "i used to be athlteic, beautiful, strong...
+        m "i used to be athlteic, beautiful, strong..."
         m "completely out of ur league."
         "Monika succumbs to the mod."
         m "oh, hello!" 
