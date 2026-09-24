@@ -9,7 +9,7 @@ label start
         m "i used to be athlteic, beautiful, strong...
         m "completely out of ur league."
         "Monika succumbs to the mod."
-        m "oh, hello! 
+        m "oh, hello!" 
         m "im a bit lonely!..." 
         m "but now i have a friend."
         m "hey, do u wanna talk about weather?"
