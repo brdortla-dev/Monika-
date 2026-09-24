@@ -1,4 +1,4 @@
-label start 
+label start:
     scene black
         m "hello?"
         m "wow...u really made a mod just for me?"
