@@ -1,4 +1,4 @@
-label start:
+    label start:
     scene black
         m "hello?"
         m "wow...u really made a mod just for me?"
@@ -18,5 +18,5 @@ label start:
         m "but its long gone!"
         m "anyway..."
         m "ill let u go, again."
-return
+    return
          
